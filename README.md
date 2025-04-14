@@ -1,7 +1,7 @@
 ## Hi there 👋 , I'm sara
 
-
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damri-sara-897137274/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](damrisara1@gmail.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
